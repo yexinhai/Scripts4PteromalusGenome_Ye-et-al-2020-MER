@@ -1,6 +1,7 @@
 #!/usr/bin/perl -w
 use strict;
 #usage: perl get_1_1_1_sorted.pl groups.txt
+# Ye Xinhai, yexinhai@zju.edu.cn
 
 my @array_name = qw /Acep Aech Amel Aros Bimp Cafl Cflo Ccin Cobs Csol Dall Fari Hsal Lhum Mcin Mdem Mrot Nvit Oabi Pbar Pdom Sinv Tcas Tpre/; #物种简称；
 
