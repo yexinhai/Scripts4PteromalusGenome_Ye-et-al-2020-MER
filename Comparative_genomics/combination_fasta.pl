@@ -1,6 +1,8 @@
 #!/usr/bin/perl -w
 use strict;
 
+# Ye Xinhai, yexinhai@zju.edu.cn
+
 my @array_name = qw /Cflo Csol Dall Fari Mcin Mdem Nvit Oabi Tpre/ ;
 my %hash_a;
 
