@@ -3,6 +3,7 @@ use strict;
 
 #用法：perl 程序.pl all.fasta 1_1_1_group_sorted.txt
 #读所有物种的序列；
+# Ye Xinhai, yexinhai@zju.edu.cn
 
 my $genename;
 my %hash_1;
